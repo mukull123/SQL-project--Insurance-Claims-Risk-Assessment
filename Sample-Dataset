@@ -1,0 +1,10 @@
+idpol	claimnb	exposure	area	vehpower	vehage	drivage	bonusmalus	vehbrand	vehgas	density	region
+1	1	0.1	D	5	0	55	50	B12	Regular	1217	R82
+3	1	0.77	D	5	0	55	50	B12	Regular	1217	R82
+5	1	0.75	B	6	2	52	50	B12	Diesel	54	R22
+10	1	0.09	B	7	0	46	50	B12	Diesel	76	R72
+11	1	0.84	B	7	0	46	50	B12	Diesel	76	R72
+13	1	0.52	E	6	2	38	50	B12	Regular	3003	R31
+15	1	0.45	E	6	2	38	50	B12	Regular	3003	R31
+17	1	0.27	C	7	0	33	68	B12	Diesel	137	R91
+18	1	0.71	C	7	0	33	68	B12	Diesel	137	R91
